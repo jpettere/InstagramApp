@@ -27,12 +27,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] Customized UI
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. Displaying other users when others log on.
+2. Discuss modal vs push segues.
 
 ## Video Walkthrough 
 
@@ -46,7 +47,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-## License
+Creating a back button from updating the profile picture that saves the updated profile picture was tricky to figure out.
 
     Copyright [yyyy] [name of copyright owner]
 
